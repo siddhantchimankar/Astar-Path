@@ -1,3 +1,5 @@
+![A Star](a.png)
+
 # A* Path Finding Algorithm Visualization
 
 This project is a visual representation of the A* path finding algorithm, implemented using the p5.js library. The A* algorithm is a popular pathfinding algorithm used in various applications, such as video games, robotics, and routing systems. This implementation allows users to visualize the algorithm's step-by-step process in finding the shortest path between two points on a grid.
